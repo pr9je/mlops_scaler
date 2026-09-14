@@ -1,6 +1,0 @@
-# core data / ml
-numpy
-pandas
-scikit-learn
-xgboost
-
